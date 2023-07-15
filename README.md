@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @affleS-W
 - 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning CoffeeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that has to do with web development!
 - 📫 How to reach me? Good question!
 
 <!---
