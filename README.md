@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @affleS-W
-- 👀 I’m interested in HTML, CSS and JavaScript
+- 🪐 I’m interested in C++ and UE5
 - 🌱 I’m currently learning CoffeeScript
-- 💞️ I’m looking to collaborate with anyone!
+- 👀 I’m looking to collaborate with anyone!
 - 📫 How to reach me? Good question!
 
 <!---
