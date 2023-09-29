@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @affleS-W
 - 🪐 I’m interested in C++ and UE5
-- 🌱 I’m currently learning CoffeeScript
+- 🌱 I’m currently learning CoffeeScript and Python!
 - 👀 I’m looking to collaborate with anyone!
 - 📫 How to reach me? Good question!
 
