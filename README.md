@@ -1,4 +1,5 @@
-Hey, i am affleS-W. I love taking part in CTF contests. Also i just begun solving, so...
+Hey, i am affleS-W
+I love programming.
 
 <!---
 affleS-W/affleS-W is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
