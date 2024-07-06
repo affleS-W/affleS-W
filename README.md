@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @affleS-W
-- 🪐 I’m interested in learning cyber security!
+- 🪐 I’m am trying to become a full-stack web developer!
 - 🌱 I’m currently trying to learn JavaScript!
 - 💾 I’m looking to collaborate with anyone! I love helping in projects!
 
