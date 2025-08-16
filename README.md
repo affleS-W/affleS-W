@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @affleS-W
-- 🪐 I’m am trying to become a full-stack web developer!
-- 🌱 I’m currently trying to learn JavaScript!
+- 🪐 I’m trying to become a developer!
+- 🌱 I’m currently trying to learn Python to build cool stuff!
 - 💾 I’m looking to collaborate with anyone! I love helping in projects!
 
 - 📫 How to reach me? Good question
